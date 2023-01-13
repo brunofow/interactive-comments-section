@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/interactive-comments-section-dtoVeVev11
+- Live Site URL: https://interactive-comments-section-brunofow.vercel.app/
 
 ## My process
 
